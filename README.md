@@ -38,8 +38,8 @@ JavaScript (Regex) – Validation
 ---
 
 
-🎯 Live Demo
-
+🎯 Live Demo #
+Check it Out Here[Login Form Validation](https://amanlegenddev.github.io/Login-Form-Validation/)
 
 
 👨‍💻 Author
